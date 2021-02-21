@@ -8,7 +8,7 @@ my_birthday = month + " " + day + "," + year
 print(my_birthday)
 
 
-# Part 2. Concatenate the variables first, second, third, and fourth and set this concatenation to the variable final:
+# Part 2. Concatenate the variables first, second, third, and fourth and set this concatenation to the variable final: this is a test
 
 first = "happy"
 second = "birthday"
